@@ -4,7 +4,7 @@ I'm an undergraduate Computer Science student at Vellore Institute of Technology
 
 ### What I'm working on
 
-- 📚 Preparing for placement season — sharpening DSA, CS fundamentals, and project articulation.
+- 📚 Sharpening DSA, CS fundamentals, and project articulation.
 - 🌱 Learning and building with agentic AI, tool-using research agents, and graph neural networks.
 - 🤝 Open to collaborating on ML/data science projects and competitive programming.
 
