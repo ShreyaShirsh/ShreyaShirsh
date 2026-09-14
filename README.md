@@ -21,3 +21,4 @@ I'm an undergraduate Computer Science student at Vellore Institute of Technology
 ### Reach me
 
 - 📫 shreyashirsh@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreya-shirsh-bbb941346/)
