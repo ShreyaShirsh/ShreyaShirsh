@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Shreya 👋
 
-<!--
-**ShreyaShirsh/ShreyaShirsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate Computer Science student at Vellore Institute of Technology (VIT), building software with real depth in machine learning and data science, alongside a competitive programming habit. I think of myself as a software engineer who happens to have strong ML chops, rather than a pure ML specialist.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🩺 **DiagnoSure** — an AI-enabled health assistant using Retrieval-Augmented Generation (RAG) and semantic search to process user-reported symptoms, extract relevant medical information, and predict likely conditions.
+- 🔭 **SDSS Galaxy Cluster Project** — analyzing galaxy cluster dynamical mass using SDSS spectroscopic data, velocity dispersion, and comparative luminous mass calculations.
+- 🌌 **Exoplanet Detection Pipeline** — an end-to-end ML pipeline for detecting exoplanets from NASA TESS light curve data.
+- 🕸️ **FlowGuard** — a spectral-temporal graph neural network for anti-money-laundering (AML) fraud detection.
+- 🧩 **Generic Constraint Satisfaction Engine** — a single CSP solver that handles Sudoku, N-Queens, map colouring, cryptarithmetic, and scheduling problems.
+- 🎫 **TicketSurge** — an event-driven ticketing platform built for portfolio and placement interview prep.
+- 🦻 **HaptiHear** — an ESP32-based haptic hearing-aid wearable using TinyML sound classification.
+
+### Currently
+
+- 📚 Preparing for placement season — sharpening DSA, CS fundamentals, and project articulation.
+- 🌱 Learning and building with agentic AI, tool-using research agents, and graph neural networks.
+- 🤝 Open to collaborating on ML/data science projects and competitive programming.
+
+### Reach me
+
+- 📫 shreyashirsh@gmail.com
